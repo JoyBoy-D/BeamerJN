@@ -1,0 +1,12 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.7 }
+
+\bibitem[Stewart 2015]{stewart}
+\abntrefinfo{Stewart}{STEWART}{2015}
+{STEWART, J. \emph{Calculus}. [S.l.]: Cengage Learning, 2015.}
+
+\end{thebibliography}
